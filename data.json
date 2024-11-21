@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tony Reichert",
+      "role": "CEO",
+      "status": "active",
+      "email": "tony.reichert@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=a042581f4e29026024d"
+    },
+    {
+      "id": 2,
+      "name": "Zoey Lang",
+      "role": "Technical Lead",
+      "status": "paused",
+      "email": "zoey.lang@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=a042581f4e29026704d"
+    },
+    {
+      "id": 3,
+      "name": "Jane Fisher",
+      "role": "Senior Developer",
+      "status": "active",
+      "email": "jane.fisher@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=a04258114e29026702d"
+    },
+    {
+      "id": 4,
+      "name": "William Howard",
+      "role": "Community Manager",
+      "status": "vacation",
+      "email": "william.howard@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=a048581f4e29026701d"
+    },
+    {
+      "id": 5,
+      "name": "Kristen Copper",
+      "role": "Sales Manager",
+      "status": "active",
+      "email": "kristen.cooper@example.com",
+      "avatar": "https://i.pravatar.cc/150?u=a092581d4ef9026700d"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "This is my first post",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "New Project Announcement",
+      "content": "We have a new project starting next week!",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Status Update",
+      "content": "The team is making great progress.",
+      "userId": 3
+    }
+  ]
+}
